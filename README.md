@@ -39,9 +39,9 @@ This is an ~~striketrogh~~ text
 1. item 4
 
 <!-- Links -->
-[Faztweb.com](https://www.faztweb.com)
+[Instagram](https://www.instagram.com/jesus_andres31/)
 
-[Faztweb.com](https://www.faztweb.com "Custom title")
+[Instagram](https://www.instagram.com/jesus_andres31/ "Custom title")
 <!-- Blockquote -->
 > this is a quote
 
@@ -92,4 +92,4 @@ const test = (str) => str + 'test';
 * [x] task4
 
 <!-- Mentiosn -->
-@faztweb :+1: :smile:
+@thanks fazt :+1: :smile:
